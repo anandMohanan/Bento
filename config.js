@@ -86,24 +86,24 @@ const CONFIG = {
 
   // Links
   lists: {
-    // firstList: [
-    //   {
-    //     name: "Inspirational",
-    //     link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    //   },
-    //   {
-    //     name: "Classic",
-    //     link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    //   },
-    //   {
-    //     name: "Oldies",
-    //     link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    //   },
-    //   {
-    //     name: "Rock",
-    //     link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    //   },
-    // ],
+    firstList: [
+      {
+        name: "playlist1",
+        link: "https://open.spotify.com/playlist/1LtWfn0qEDr9yguMoK9LgW?si=3489e23234564d88",
+      },
+      {
+        name: "playlist2",
+        link: "https://open.spotify.com/playlist/0qnODzDa4t4xjBdvuCjiUc?si=d4c5d8b0e82e4ece",
+      },
+      {
+        name: "playlist3",
+        link: "Oldies",
+      },
+      {
+        name: "playlist4",
+        link: "https://open.spotify.com/playlist/1R23BFoiidvFnFDUqShRNX?si=939838873e8f4716",
+      },
+    ],
     secondList: [
       {
         name: "Linkedin",
